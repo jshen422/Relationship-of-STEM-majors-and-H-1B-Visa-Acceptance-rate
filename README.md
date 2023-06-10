@@ -1,36 +1,22 @@
-A Study on the in Relationship of STEM majors and H-1B Visa Acceptance rate
-By Kai-ren Hou, Rong Shen
 
 INTRODUCTION:
+
 According to fws.us, “A majority (73%) of prospective international students to the U.S. in 2021 say they would stay in the U.S. to live and work if they were graduating from their degree program today and a visa were easily accessible to them”. H-1B visa is a nonimmigrant work visa that allows foreign workers to work in the United States for specialty jobs that require a bachelor’s degree or above. The included fields are finance, engineering, architecture and more. H-1B visa status is available for students that were offered temporary professional positions by U.S. employers. However, the probability of receiving the H-1B visa is around 30% to 38%. 
 
 PROBLEM STATEMENT:
+
 In the 2021 to 2022 academic year there are around 1 million students that came to the United States to study from more than 200 countries. It is fairly competitive for an international student to get an H-1B visa. There are rumors flowing around that Non-Stem majors are equally likely to receive H-1B visas. As international student studying Non-stem majors, we want to find out: is it possible for non- STEM majors to have a higher probability to receive the H-1B visa than STEM majors? What major should I choose if I want to stay and live in the United States? 
 
 OBJECTIVES:
+
 Our objective is to test out the hypothesis if non- STEM majors have a higher probability of receiving H-1B visa than STEM majors. Also to identify specific industries in STEM or non STEM (whichever has the higher chance) that provide the highest probability of receiving the H-1B visa. In addition, we aim to create diagrams and suggestions for incoming international students as a reference for their future career path.
 
 METHOD:
+
 Data Collection 
 After we identified our problem, we collected data from Usafacts (their data comes from USCIS) which includes the number of H-1B initial approvals granted by year, state, industry, and employer from 2009 to 2019. Considering the number changed every year, we decided to use the most current year (2019) as our reference. 
 
-Descriptive Statistics
 
-Figure 1: Descriptive Statistics of H-1B Visa Approval 
-	
-Based on Figure 1, it demonstrates the difference between the number of case approval for STEM and non STEM majors. The minimum case number of approval for STEM majors is 1939 compared to 133 for non-STEM majors. Which indicates that STEM majors actually have the higher probability of receiving an H-1B visa. 
-
-Data Visualization
-
-Figure 2: Total approve case between STEM and non-STEM majors
-
-Based on figure 2, the total approved case number for STEM majors(blue) outstrip non-STEM majors(red). 
-Figure 3: Approval rate for different industry under STEM majors
-
-Based on figure3, the Scientific and Technical Services industry has the highest chance(71.7%)  of receiving an H-1b visa and Wood and Chemical Manufacturing has the lowest chance (2.14%) out of all four industries.
-
-Data Analysis
-		Figure 4: Two Sample T-Test
 RESULT
 
 In Figure 4, we compared the means of the Non-Stem group and the Stem group, and found that 22607.25 (Stem) is significantly higher than 2040.75 (Non-Stem). The total number of approved stem major applications is 90429, accounting for 69% of the total acceptance rate. In contrast, Non-Stem majors only have 40815 approved applications, which is only 31% of the total accepted applications. Of the 90429 approved applications, 64927 come from Scientific & Technical Services, which is 71.7% of the approved Stem majors.
